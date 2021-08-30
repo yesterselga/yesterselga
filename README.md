@@ -6,7 +6,7 @@
 
 📫 Lets talk **yesterselga@gmail.com**
 
-🌐 **yesterselga.com**
+🌐 <a href="https://yesterselga.com/">yesterselga.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
