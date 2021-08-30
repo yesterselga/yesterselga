@@ -2,9 +2,11 @@
  - [x] Android App Development
  - [x] Web Development
  - [x] Software Development
- - [x] WordPress & WooCommerce Expert
+ - [x] WordPress (WooCommerce and Elementor Expert)
 
 📫 Lets talk **yesterselga@gmail.com**
+
+🌐 **yesterselga.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
