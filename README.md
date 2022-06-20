@@ -1,5 +1,5 @@
 # Hi  👋, I'm Yester
- - [x] Android App Development
+ - [x] Android App Development (Java)
  - [x] Web Development (PHP CI/Laravel, ASP C#)
  - [x] Software Development (C#,VB,Java,Python)
  - [x] WordPress (WooCommerce and Elementor Expert)
