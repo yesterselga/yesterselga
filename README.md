@@ -1,8 +1,9 @@
 # Hi  👋, I'm Yester
  - [x] Android App Development
- - [x] Web Development
- - [x] Software Development
+ - [x] Web Development (PHP - CI/Laravel)
+ - [x] Software Development (C#/VB/Java)
  - [x] WordPress (WooCommerce and Elementor Expert)
+ - [x] Moodle (LMS/E-Learning) 
 
 📫 Lets talk **yesterselga@gmail.com**
 
