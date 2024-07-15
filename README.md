@@ -1,9 +1,9 @@
 # Hi  👋, I'm Yester
- - [x] Android App Development (Java)
+ - [x] Mobile App Development (Flutter / Java)
  - [x] Web Development (PHP CI/Laravel, ASP C#, NodeJS)
  - [x] Software Development (C#,Java,Python,Electron)
  - [x] WordPress (WooCommerce and Elementor Expert)
- - [x] Moodle (LMS/E-Learning) 
+ - [x] FilamentPHP Expert
 
 📫 Lets talk **yesterselga@gmail.com**
 
